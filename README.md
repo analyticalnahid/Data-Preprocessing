@@ -1,4 +1,5 @@
 # Data-Preprocessing
+The pratical way to work before giving data to model.
 
 
 ## 🔗 Links
